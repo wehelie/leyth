@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Project Four'
+title: 'User Interface (UI)'
 ---
 
-In diam odio, facilisis eu elementum in, sodales ut dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean fermentum ante vitae sagittis efficitur. Praesent interdum sagittis porttitor. Duis non hendrerit metus. Nullam bibendum nunc cursus elit cursus ornare. Nulla eget sodales erat. Quisque laoreet nibh eu eleifend vehicula.
+I, along with teammates, built a UI for a bookstore website. We were given a mockup of the UI along with their assests. For the first phase of this project, we were only allowed to use HTML and CSS, meaning, we were not expected to build the functional tabs interfaces. Hence, no JavaScript was added.
 
 {% include image.html url="https://wehelie.github.io/book-ui/" image="projects/proj-4/thumb.png" %}
