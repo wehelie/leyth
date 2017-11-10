@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Project Eight'
+title: 'Classic Arcade Game Clone'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porta tortor eros, et cursus diam feugiat eu. Mauris euismod volutpat leo porttitor congue. Curabitur quis purus dignissim, sagittis enim non, interdum enim. Sed vitae nibh sed ante luctus finibus. In fermentum arcu eget volutpat blandit. Nullam leo magna, luctus ac consequat ut, ultrices quis quam. Nullam orci magna, tincidunt consequat arcu vel, facilisis hendrerit lectus. Mauris dapibus, lorem et tincidunt bibendum, massa ipsum consectetur elit, at venenatis nulla nulla id ante.
+Provided with visual assets and a game loop engine, I used Object-Oriented Javascript and HTML5 Canvas to add a number of entities to the game. This included the player characters and enemies to recreate the classic arcade game Frogger.
 
 {% include image.html url="http://wehelie.github.io/project3/" image="projects/proj-8/thumb.png" %}
