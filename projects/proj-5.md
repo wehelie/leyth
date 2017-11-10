@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Project Five'
+title: 'Neighborhood Map'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porta tortor eros, et cursus diam feugiat eu. Mauris euismod volutpat leo porttitor congue. Curabitur quis purus dignissim, sagittis enim non, interdum enim. Sed vitae nibh sed ante luctus finibus. In fermentum arcu eget volutpat blandit. Nullam leo magna, luctus ac consequat ut, ultrices quis quam. Nullam orci magna, tincidunt consequat arcu vel, facilisis hendrerit lectus. Mauris dapibus, lorem et tincidunt bibendum, massa ipsum consectetur elit, at venenatis nulla nulla id ante.
+I developed a single-page application in KnockoutJS framework. The project features a map of my neighborhood’s parks and recreational centers utilizing google maps API. I added additional functionality to this application, including: map markers to identify locations, a search function to easily discover these locations, and a list-view to support simple browsing of all locations. I also included the FourSquare API to pull important location data.
 
 {% include image.html url="http://wehelie.github.io/neighborhood-map-project/" image="projects/proj-5/thumb.png" %}
