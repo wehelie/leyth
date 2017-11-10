@@ -1,8 +1,12 @@
 ---
 layout: post
-title: 'Project Six'
+title: 'UdaciFeeds: Feed Reader Testing | Jasmine'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porta tortor eros, et cursus diam feugiat eu. Mauris euismod volutpat leo porttitor congue. Curabitur quis purus dignissim, sagittis enim non, interdum enim. Sed vitae nibh sed ante luctus finibus. In fermentum arcu eget volutpat blandit. Nullam leo magna, luctus ac consequat ut, ultrices quis quam. Nullam orci magna, tincidunt consequat arcu vel, facilisis hendrerit lectus. Mauris dapibus, lorem et tincidunt bibendum, massa ipsum consectetur elit, at venenatis nulla nulla id ante.
+Used the red-green-refactor workflow to develop the UdaciFeeds project. I was given a web-based application that reads RSS feeds. The original developer of this application included Jasmine, but with incomplete test suites. I completed all the required tests by:
+
+- Validating opinions
+- Identifying and defining expectations
+- Writing expectations in code
 
 {% include image.html url="http://wehelie.github.io/feed-reader/" image="projects/proj-6/thumb.png" %}
