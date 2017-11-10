@@ -59,6 +59,7 @@ projects:
 - {name: 'Project Six', folder: 'proj-6', file: 'projects/proj-6.html'}
 - {name: 'Project Seven', folder: 'proj-7', file: 'projects/proj-7.html'}
 - {name: 'Project Eight', folder: 'proj-8', file: 'projects/proj-8.html'}
+- {name: 'Project Nine', folder: 'proj-9', file: 'projects/proj-9.html'}
 
 #-------------------------------
 # Contact Section
