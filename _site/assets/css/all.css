@@ -158,7 +158,7 @@ td, th {
   font-style: normal;
   font-weight: 700;
   src: local("Open Sans Bold"), local("OpenSans-Bold"), url(//themes.googleusercontent.com/static/fonts/opensans/v8/k3k702ZOKiLJc3WVjuplzKRDOzjiPcYnFooOUGCOsRk.woff) format("woff"); }
-/*
+/* 
   Animation: bounceOut
   Source: Bounce.Js */
 @-webkit-keyframes animation {
@@ -362,7 +362,7 @@ td, th {
     -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
     transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); } }
 /* Animation: fadeIn
- * Source: Dylan Spicker
+ * Source: Dylan Spicker 
  * Rewrite: niklasravnsborg */
 /* Animation: bottomUp
  * Source: Travis Nielson */
@@ -660,11 +660,11 @@ footer {
     display: table;
     clear: both; }
   .thumb-container .thumb-unit {
-    /*box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);*/
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
     cursor: pointer;
     display: block;
-    width: 688px;
-    height: 400px;
+    width: 600px;
+    height: 300px;
     margin: 0px auto 30px;
     position: relative;
     overflow: hidden;
