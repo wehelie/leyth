@@ -29,13 +29,13 @@ seo:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-#google-analytics-ua: UA-XXXXXX-X
+google-analytics-ua: UA-109491530-1
 
 #-------------------------------
 # About Section
 
 about: >
-  # Portfolio Jekyll Theme
+  # Welcome
 
   My name is Leyth. I am interested in web technologies and distributed systems. Not to mention that I am also a passionate JavaScript Developer with strong critical thinking and communication skills.
   My love for web development and teaching has led to my current position at Udacity, where I am afforded the opportunity to assist an eclectic student base in mastering HTML, CSS, and JavaScript.
